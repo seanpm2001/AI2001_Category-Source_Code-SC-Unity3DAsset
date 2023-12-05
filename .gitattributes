@@ -49,13 +49,13 @@
 *.Rmd linguist-detectable=true
 *.Rmd linguist-documentation=false
 *.Rmd linguist-language=RMarkdown
-# Unity3DAsset source file
+# Unity3D Asset source file
 *.meta linguist-detectable=true
 *.meta linguist-documentation=false
 *.meta linguist-language=Unity3DAsset
 *.unity linguist-detectable=true
 *.unity linguist-documentation=false
-*.unity linguist-language=Unity3DAsset
+*.unity linguist-language=Unity3D-Asset
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
@@ -190,7 +190,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Monday, December 4th at 08:27 pm PST)
+# File version: 6 (2023, Monday, December 4th at 08:30 pm PST)
 # Line count (including blank lines and compiler line): 197
 
 # End of script
